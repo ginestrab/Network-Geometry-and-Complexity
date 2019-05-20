@@ -21,6 +21,7 @@ These programs are distributed by the authors in the hope that it will be useful
 If you use any of these codes please cite
 
 [1] G. Bianconi and C. Rahmede "Network geometry with flavor:from complexity to quantum geometry" Physical Review E 93, 032315 (2016).
+
 [2] D. Mulder and G. Bianconi "Network geometry and complexity" Journal of Statistical Physics 173, 783 (2018).
 
 (c)  Ginestra Bianconi (g.bianconi@qmul.ac.uk)
